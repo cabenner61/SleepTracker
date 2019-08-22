@@ -1,0 +1,7 @@
+How rested will I be if I get {NumberOfHours} hours of sleep
+
+How well rested will I be if I slept {SleepQuality} last night
+
+How well rested will I be after {NumberOfHours} hours if I slept {SleepQuality} last night
+
+How well rested will I be if I slept {SleepQuality} last night and I get {NumberOfHours} hours of sleep tonight
